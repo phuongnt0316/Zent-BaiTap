@@ -1,0 +1,24 @@
+.container{
+    display:flex;
+    
+    
+}
+.item{
+    width: 200px;
+    padding: 5px 5px;
+    border: 1px solid black;
+    text-align: center;
+    margin: 10px;
+}
+.item:hover{
+    border-color: orange;
+}
+.title{
+    color: orange;
+}
+.price{
+    color: red;
+}
+p:hover{
+    color: blue;
+}
